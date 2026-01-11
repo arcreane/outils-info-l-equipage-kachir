@@ -1,1 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/lCgyrFil)
+(kerime) projet pygame TP info
+ mis à jour du projet tp ,janvier 2026
+ -objectifs: crééer un programme stable et apprendre à adapter mon code
+ -Architecture : un dossier 'src' pour le code et un fichier 'main.py'
