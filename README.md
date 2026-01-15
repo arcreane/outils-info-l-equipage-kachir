@@ -1,4 +1,15 @@
-(kerime) projet pygame TP info
- mis à jour du projet tp ,janvier 2026
- -objectifs: crééer un programme stable et apprendre à adapter mon code
- -Architecture : un dossier 'src' pour le code et un fichier 'main.py'
+LA TEAM KACHIR
+
+Space Shooter
+
+Le but de ce jeu est tout simplement deeliminer les ennemies :
+
+Eliminez le plus d'ennemis pour obtenir le plus de pts
+Survivre jusqu'au bout
+
+Commandes du jeu
+
+
+Structure du jeu
+
+Le projet est en plusieurs modules
