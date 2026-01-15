@@ -14,3 +14,5 @@ Structure du jeu :
 Le projet est en plusieurs modules
 
 JEU TOUJOURS EN MAINTENANCE.
+
+Lien Trello : https://trello.com/b/Nxy1Tb6C/tp2
